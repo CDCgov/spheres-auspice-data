@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Auspice data from the SPHERES pipeline and corresponding Microbetrace] edge lists.
+This repository contains Auspice data from the SPHERES pipeline and corresponding Microbetrace edge lists.
 
 <img src="MicrobeTrace_logo_TM.svg" width="150" height="150">
 
