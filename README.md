@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains Auspice data from the SPHERES pipeline and corresponding Microbetrace edge lists.
+This repository contains Auspice data from the SPHERES pipeline and corresponding Microbetrace] edge lists.
 
-![MicrobeTrace logo](MicrobeTrace_logo_TM.svg | width=200)
+<img src="MicrobeTrace_logo_TM.svg" width="150" height="150">
 
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
