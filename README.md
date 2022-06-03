@@ -1,8 +1,8 @@
-# SPHERES Auspice Data
+# SPHERES Auspice Data and Microbetrace files
 
 ## Overview
 
-This repository contains Auspice data from the SPHERES pipeline.
+This repository contains Auspice data from the SPHERES pipeline and corresponding Microbetrace edge lists.
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
